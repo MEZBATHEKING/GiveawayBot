@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "giveawaybot-discord",
+
+    "public": "public",
+    ...
+  }
+}
